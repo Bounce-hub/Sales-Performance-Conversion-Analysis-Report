@@ -97,6 +97,7 @@ Recommendations
 •	Introduce location-specific coaching and targets.
 
 ## Dashboard Insights & Visualizations
+https://github.com/Bounce-hub/Sales-Performance-Conversion-Analysis-Report/blob/main/Sales-Performance-Conversion-Analysis.jpeg
 
 
 ## Additional Observations

@@ -8,13 +8,13 @@ This project performs an end-to-end sales performance and conversion funnel anal
 
 The objective is to:
 
-Quantify lead-to-client conversion efficiency
+1. Quantify lead-to-client conversion efficiency
 
-Evaluate individual sales representative performance
+2. Evaluate individual sales representative performance
 
-Compare regional and property-type demand
+3. Compare regional and property-type demand
 
-Identify bottlenecks in the sales pipeline
+4. Identify bottlenecks in the sales pipeline
 
 The output is an interactive KPI dashboard for management-level decision support.
 
@@ -22,13 +22,13 @@ The output is an interactive KPI dashboard for management-level decision support
 
 Despite high lead generation volume, Emerald Prime Properties experiences:
 
-Low conversion efficiency
+1. Low conversion efficiency
 
-Uneven performance across sales reps
+2. Uneven performance across sales reps
 
-Regional performance disparities
+3. Regional performance disparities
 
-Limited visibility into property demand patterns
+4. Limited visibility into property demand patterns
 
 This analysis answers:
 
@@ -61,11 +61,11 @@ The dataset contains structured records with the following fields:
 
 ## Sales Rep Performance
 
-Funmi and Chioma generated the highest lead volume.
+1. Funmi and Chioma generated the highest lead volume.
 
-Funmi also recorded the highest client conversions.
+2. Funmi also recorded the highest client conversions.
 
-Ahmed recorded the lowest conversion count.
+3. Ahmed recorded the lowest conversion count.
 
 ## Regional Distribution
 
@@ -80,9 +80,9 @@ Lagos is the primary revenue-driving region.
 
 Inspection vs Conversion
 
-Conversion with inspection: 55%
+1. Conversion with inspection: 55%
 
-Conversion without inspection: 11.1%
+2. Conversion without inspection: 11.1%
 
 Inspection is a statistically strong conversion driver.
 
@@ -105,9 +105,9 @@ Residential dominates transactional volume.
 
 # Tech Stack
 
-Microsoft Excel (Power Query, Pivot Tables, KPI formulas)
+1. Microsoft Excel (Power Query, Pivot Tables, KPI formulas)
 
-Dashboard Visualization (Slicers, Dynamic charts)
+2. Dashboard Visualization (Slicers, Dynamic charts)
 
 # Dashboard Visualization
 
@@ -117,13 +117,13 @@ https://github.com/Bounce-hub/Sales-Performance-Conversion-Analysis-Report/blob/
 
 This dashboard enables:
 
-Real-time sales monitoring
+1. Real-time sales monitoring
 
-Performance benchmarking across reps
+2. Performance benchmarking across reps
 
-Regional resource allocation
+3. Regional resource allocation
 
-Conversion funnel optimization
+4. Conversion funnel optimization
 
 # Author
 

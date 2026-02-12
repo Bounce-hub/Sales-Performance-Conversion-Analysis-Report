@@ -111,6 +111,8 @@ Dashboard Visualization (Slicers, Dynamic charts)
 
 # Dashboard Visualization
 
+https://github.com/Bounce-hub/Sales-Performance-Conversion-Analysis-Report/blob/main/Sales-Performance-Conversion-Analysis.jpeg
+
 # Business Impact
 
 This dashboard enables:
